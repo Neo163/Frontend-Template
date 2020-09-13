@@ -1,6 +1,6 @@
 # Demo link
 
-<a href="http://demo.testdomain.solutions/Frontend-template-V1.0/index.html" target="_blank">Frontend template / 前端模板</a>
+<a href="http://www.template.testdomain.solutions" target="_blank">Frontend template / 前端模板</a>
 
 # Preview index.html
 
